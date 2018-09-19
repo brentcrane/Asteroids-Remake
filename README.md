@@ -7,3 +7,6 @@ All assets were made by me... For better or worse.
 
 ## Code usage
 Feel free to use my code or assets if you wish. I would appreciate some credit if at all possible, though.
+
+## Git Ignore
+I made the mistake of not adding a proper Git Ignore file to this repository. Sorry.
